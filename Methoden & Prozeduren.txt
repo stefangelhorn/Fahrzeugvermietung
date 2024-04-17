@@ -1,0 +1,15 @@
+Brainstorm Methoden & Prozeduren
+
+Hauptmenü
+ Vertrag neu
+ Fahrzeug neu
+ Kunde neu
+ Liste
+  Kundenliste (alle, nach Name, nach Ort)
+  Fahrzeugliste (alle, verfügbare, nach Art)
+
+Kunde suchen (bereits vorhanden?)
+Status ändern (Verfügbar oder nicht)
+
+automatisch bei Ende / Start des Programms
+ speichern/laden in/aus je einer txt Datei (Autos, Kunden, Verträge, usw.)
