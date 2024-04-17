@@ -1,0 +1,10 @@
+Rot,Toyota,Corolla,2019,1,1.8L Hybrid,122,12,70,400,0.2,25000,Limousine,B-AB1234
+Blau,Ford,Focus,2018,0,2.0L Diesel,150,10,60,350,0.18,31000,Hatchback,B-BC2345
+Schwarz,BMW,3er,2020,1,2.0L Benzin,184,15,90,500,0.25,15000,Sedan,M-CD3456
+Weiß,Mercedes,C-Klasse,2021,1,2.0L Diesel,194,18,110,700,0.3,12000,Coupe,D-DE4567
+Grau,Volkswagen,Golf,2017,1,1.6L Diesel,115,8,50,300,0.15,40000,Hatchback,B-EF5678
+Rot,Audi,A4,2019,1,3.0L Benzin,249,20,120,800,0.35,22000,Kombi,M-FG6789
+Grün,Skoda,Octavia,2018,0,1.4L Hybrid,150,9,55,330,0.17,33000,Kombi,D-GH7890
+Blau,Nissan,Qashqai,2020,1,2.0L Diesel,144,14,85,450,0.22,18000,SUV,B-HI8901
+Weiß,Tesla,Model S,2022,1,Elektro,670,30,180,1200,0.4,8000,Sedan,M-IJ9012
+Schwarz,Porsche,Cayenne,2021,1,3.0L Benzin,340,25,150,1000,0.5,5000,SUV,D-JK0123
